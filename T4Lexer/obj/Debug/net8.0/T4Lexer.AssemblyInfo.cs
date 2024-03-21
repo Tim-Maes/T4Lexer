@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T4Lexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9646f5f6ea07a689666e007fde014b86bc61676b")]
 [assembly: System.Reflection.AssemblyProductAttribute("T4Lexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T4Lexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
